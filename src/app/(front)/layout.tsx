@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { K2D } from "next/font/google";
-import "./globals.css";
+import "../globals.css";
 
 const k2d = K2D({
   subsets: ["thai"],

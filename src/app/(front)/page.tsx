@@ -1,4 +1,4 @@
-import AppWelcome from "./components/appwelcome";
+import AppWelcome from "../components/appwelcome";
 
 export default function Home() {
   return (

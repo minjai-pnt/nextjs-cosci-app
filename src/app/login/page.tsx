@@ -1,6 +1,5 @@
 "use client";
 
-import { Logo } from "@/components/logo";
 import { Button } from "@/components/ui/button";
 import {
   Form,
@@ -38,7 +37,7 @@ const Login01Page = () => {
   return (
     <div className="min-h-screen flex items-center justify-center">
       <div className="max-w-xs w-full flex flex-col items-center">
-        <Logo className="h-9 w-9" />
+        
         <p className="mt-4 text-xl font-bold tracking-tight">
           Log in to Shadcn UI Blocks
         </p>
